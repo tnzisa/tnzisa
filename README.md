@@ -22,7 +22,7 @@ LLMs • Multi-agent systems • RAG • AI-powered security workflows • Anoma
 Digital evidence handling • Forensic imaging • OSINT • Log analysis • Evidence integrity • Timeline analysis • Cybercrime investigation
 
 💻 **Software & Backend Engineering**
-Python • FastAPI • JavaScript • REST APIs • PostgreSQL • SQL • Git • Docker
+Python • FastAPI • JavaScript • REST APIs • PostgreSQL • SQL • Git • Docker • React • Java • C#/C++ • Node.js • Supabase/Firebase
 
 📊 **Data & Machine Learning**
 Pandas • Exploratory Data Analysis • Data Visualization • Machine Learning • LSTM • ARIMA
